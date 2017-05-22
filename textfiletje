@@ -1,0 +1,11 @@
+Stap 1 clone je url
+open je gitbash
+
+cd zonder / of gebruik ls
+
+commando #1 -> git clone https://github.com/coysmangriet/demo.git
+dit gebeurd allemaal in je mapje demo
+stap 2 files aanpassen
+commando #2 -> git add . //voegt alles toe van directory
+commando #3 -> git commit -m 'de beschrijving vqn je commit'
+commando #4 -> git push
